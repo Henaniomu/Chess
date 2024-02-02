@@ -1,0 +1,1 @@
+"C:\Program Files\Java\jdk-18.0.1.1\bin\javadoc" -encoding UTF-8 -sourcepath .\src -cp .\src -d doc\javadoc -version -author .\src\*.java
